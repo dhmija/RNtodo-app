@@ -2,6 +2,7 @@
   "expo": {
     "name": "todo-app",
     "slug": "todo-app",
+    "description": "A React Native Expo todo manager.",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
